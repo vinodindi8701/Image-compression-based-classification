@@ -14,3 +14,8 @@ We provide a system for object instance segmentation. Our method recognises obje
 
 We trained the Mask-RCNN model for 600 epochs on 700 images.
 After testing the trained model on 200 images we got mAP of 0.33366.
+
+### Results:
+![Result 1](https://github.com/vinodindi8701/Image-compression-based-classification/blob/main/Mask%20RCNN/Mask%20predictions/test%201.png)
+
+![Result 2](https://github.com/vinodindi8701/Image-compression-based-classification/blob/main/Mask%20RCNN/Mask%20predictions/test9.png)
